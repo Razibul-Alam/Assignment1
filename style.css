@@ -1,0 +1,15 @@
+
+.header-section{
+    width: 1360px;
+    display: flex;
+    margin-right: auto;
+}
+.banner-image{
+    width: 40%;
+}
+.half-width{
+    width: 600px;
+    padding-left: 20px;
+    margin-left: 20px;
+    text-align: justify;
+}
